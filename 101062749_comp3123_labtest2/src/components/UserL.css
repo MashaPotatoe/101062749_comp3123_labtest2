@@ -1,0 +1,45 @@
+
+
+body{
+    color: dodgerblue;
+    padding: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+
+a:link {
+    background-color: yellow;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    background-color: white;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    background-color: palevioletred;
+    
+  }
+  
+  a:active {
+    background-color: hotpink;
+    
+  }  
+
+  .nav{
+    background-color: rgb(200, 194, 214);
+   
+    padding-inline: 10%;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-link{
+    justify-content: space-around;
+    margin-right: 20px
+}
+
+.ul{
+    text-decoration: none;
+}
